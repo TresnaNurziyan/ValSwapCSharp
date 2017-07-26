@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\bin\Debug\SoalPertama.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\bin\Debug\SoalPertama.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\bin\Debug\SoalPertama.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\obj\Debug\ReferenceAndValue.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\obj\Debug\SoalPertama.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\SoalPertama\SoalPertama\obj\Debug\SoalPertama.pdb
